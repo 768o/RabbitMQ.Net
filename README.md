@@ -44,5 +44,5 @@ for (var i = 0; i < 10; i++)
    new TestProducer().CreateMessage(new TestDto());//10条信息入队列
    //new ProducerBase(QueueNamesConst.Test).CreateMessage(new TestDto());//当你没有写专门的生产者类时，10条信息入队列
 }
-new TestConsumer();//创建一个消息消费者，请不要关闭程序
+new TestConsumer();//创建一个消息消费者，请不要关闭程序（在另一个系统中，如果你把他们放在一起，那毫无意义）
 ```
