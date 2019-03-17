@@ -6,8 +6,9 @@
 #### 2.安装rabbitMQ。http://www.rabbitmq.com/install-windows.html
 
 ### 如何应用于你的项目中
-#### 1.在你的项目中引入RabbitMQ.Net.dll
-#### 2.在你的配置文件appsetting.json()中添加配置信息
+#### 1.使用.net core 2.1开发，请在大于等于core 2.1的项目上运行。
+#### 2.在你的项目中引入RabbitMQ.Net.dll（编译后在你的bin里可以找到）
+#### 3.在你的配置文件appsetting.json()中添加配置信息
 
 ```
 "RabbitMQ": {
