@@ -1,0 +1,11 @@
+{
+  "ConnectionStrings": {
+    "Db": "Server=.; Database=Db; Trusted_Connection=True;"
+  },
+  "RabbitMQ": {
+    "Host": "localhost",
+    "QueueNames": {
+      "Test": "Test"
+    }
+  }
+}

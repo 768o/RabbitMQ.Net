@@ -1,0 +1,8 @@
+C:\Users\lin\Source\Repos\Rabbit.Net\Rabbit.Net\bin\Debug\netcoreapp2.1\Rabbit.Net.deps.json
+C:\Users\lin\Source\Repos\Rabbit.Net\Rabbit.Net\bin\Debug\netcoreapp2.1\Rabbit.Net.runtimeconfig.json
+C:\Users\lin\Source\Repos\Rabbit.Net\Rabbit.Net\bin\Debug\netcoreapp2.1\Rabbit.Net.runtimeconfig.dev.json
+C:\Users\lin\Source\Repos\Rabbit.Net\Rabbit.Net\bin\Debug\netcoreapp2.1\Rabbit.Net.dll
+C:\Users\lin\Source\Repos\Rabbit.Net\Rabbit.Net\obj\Debug\netcoreapp2.1\Rabbit.Net.csprojAssemblyReference.cache
+C:\Users\lin\Source\Repos\Rabbit.Net\Rabbit.Net\obj\Debug\netcoreapp2.1\Rabbit.Net.csproj.CoreCompileInputs.cache
+C:\Users\lin\Source\Repos\Rabbit.Net\Rabbit.Net\obj\Debug\netcoreapp2.1\Rabbit.Net.AssemblyInfoInputs.cache
+C:\Users\lin\Source\Repos\Rabbit.Net\Rabbit.Net\obj\Debug\netcoreapp2.1\Rabbit.Net.AssemblyInfo.cs
