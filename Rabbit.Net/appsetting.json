@@ -6,6 +6,8 @@
     "Host": "localhost",
     "QueueNames": {
       "Test": "Test"
-    }
+    },
+    "UserName": "guest",
+    "PassWord": "guest"
   }
 }

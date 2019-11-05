@@ -15,7 +15,9 @@
   "Host": "localhost",
     "QueueNames": {
       "Test": "Test"
-  }
+  },
+  "UserName": "guest",
+  "PassWord": "guest"
 }
 ```
 #### 3.完成你的消息生产者（这个类并非是必须的，但推荐你这样做）
